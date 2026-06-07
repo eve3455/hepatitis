@@ -18,7 +18,7 @@ st.set_page_config(
 # # BARRA LATERAL (PERSONALIZACIÓN)
 # ==========================================
 with st.sidebar:
-    st.image("c:\\Users\\Usuario\\Prueba MD\\yo.jpeg", width=80) # Icono médico
+    st.image("yo.jpeg", width=80) # Icono médico
     st.markdown("## **Presentado por:**")
     st.markdown("👤 **Evelyn tuba**")
     st.markdown("🎓 **BIG DATA / Mineria de datos**")
